@@ -11,7 +11,7 @@ Skills: Python SQL Tableau AWS (Cloud Computing) Data Wrangling Data Visualizati
 - 💬 Ask me about Data engineering , python, SQL, data pipline etc.. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mohamed-Badr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohamed-badr-a172991b3/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mohmmed-Badr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohamed-badr-a172991b3/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Badr)](https://github.com/anuraghazra/github-readme-stats)
 
