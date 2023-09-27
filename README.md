@@ -15,7 +15,3 @@ Skills: Python SQL Tableau AWS (Cloud Computing) Data Wrangling Data Visualizati
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Badr)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Badr&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mohamed-Badr)  
-
-![Profile views](https://gpvc.arturio.dev/Mohamed-Badr)  
